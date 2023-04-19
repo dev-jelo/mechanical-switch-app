@@ -35,7 +35,7 @@ dependencies:
   sqflite: ^2.0.0+3
   path: ^1.8.0
   carousel_slider: ^4.0.0
-  audioplayers: ^2.0.0
+  audioplayers: ^4.0.1
   drag_and_drop_gridview:
     git:
       url: https://github.com/DevOrbiter/drag_and_drop_gridview.git
